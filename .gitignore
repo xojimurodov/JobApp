@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+
+# VS user-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# App settings
+appsettings.Development.json
+secrets.json
+
+# SQLite DB (если используешь)
+*.db
